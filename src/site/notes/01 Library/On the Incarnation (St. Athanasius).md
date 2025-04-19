@@ -1,5 +1,5 @@
 ---
-{"tags":["resource/book"],"dg-publish":true,"permalink":"/01-library/on-the-incarnation-st-athanasius/","dgPassFrontmatter":true,"noteIcon":""}
+{"tags":["patristics","theology","dogmatics"],"dg-publish":true,"dg-hide":true,"permalink":"/01-library/on-the-incarnation-st-athanasius/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 | Cover                                                                                                                       | Metadata                                                                  
