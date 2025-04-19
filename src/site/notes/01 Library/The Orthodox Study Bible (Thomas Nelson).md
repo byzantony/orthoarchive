@@ -2,7 +2,7 @@
 {"created":"2025-04-18 11:56:46","updated":"2025-04-18 11:56:46","tags":["resource/book"],"dg-publish":true,"permalink":"/01-library/the-orthodox-study-bible-thomas-nelson/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-Thomas Nelson. 2008-02-26. *"The Orthodox Study Bible"*. Thomas Nelson.
+Thomas Nelson. 2008. *"The Orthodox Study Bible"*. Thomas Nelson.
 
 | Cover                                                                                                                       | Metadata                                                                  
 | --------------------------------------------------------------------------------------------------------------------------- |  --- |
