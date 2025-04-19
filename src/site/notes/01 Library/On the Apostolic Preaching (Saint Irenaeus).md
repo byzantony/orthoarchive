@@ -1,5 +1,5 @@
 ---
-{"created":"2025-04-18 01:01:52","updated":"2025-04-18 01:01:52","tags":["resource/book"],"dg-publish":true,"dg-hide":true,"permalink":"/01-library/on-the-apostolic-preaching-saint-irenaeus/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
+{"created":"2025-04-18 01:01:52","updated":"2025-04-18 01:01:52","tags":["patristics","theology","dogmatics"],"dg-publish":true,"dg-hide":true,"permalink":"/01-library/on-the-apostolic-preaching-saint-irenaeus/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 St. Irenaeus (Bishop of Lyon.). 1997. *"On the Apostolic Preaching"*. St Vladimir's Seminary Press.
