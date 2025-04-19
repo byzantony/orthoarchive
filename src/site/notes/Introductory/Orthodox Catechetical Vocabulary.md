@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introductory/orthodox-catechetical-vocabulary/"}
+{"dg-publish":true,"dg-hide":true,"permalink":"/introductory/orthodox-catechetical-vocabulary/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

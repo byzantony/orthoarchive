@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-library/the-didache-the-teaching-of-the-twelve-apostles/","title":"Didache. The Teaching of the Twelve Apostles (translation Roberts-Donaldson).","tags":["clippings"]}
+{"title":"Didache. The Teaching of the Twelve Apostles (translation Roberts-Donaldson).","description":"Didache. The Teaching of the Twelve Apostles (translation Roberts-Donaldson). On Early Christian Writings.","author":null,"source":"https://www.earlychristianwritings.com/text/didache-roberts.html","date_published":null,"created":"2025-04-18","tags":["clippings"],"dg-publish":true,"dg-hide":true,"permalink":"/01-library/the-didache-the-teaching-of-the-twelve-apostles/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # The Didache

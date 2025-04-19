@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/orthodox-bookstores-and-gift-shops/"}
+{"dg-publish":true,"permalink":"/resources/orthodox-bookstores-and-gift-shops/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

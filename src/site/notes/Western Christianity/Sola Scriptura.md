@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/western-christianity/sola-scriptura/","title":"Sola Scriptura"}
+{"title":"Sola Scriptura","description":null,"author":["Fr. John Whiteford"],"source":"http://orthodoxinfo.com/inquirers/tca_solascriptura.aspx","tags":["protestantism","calvinism"],"dg-publish":true,"dg-hide":true,"permalink":"/western-christianity/sola-scriptura/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

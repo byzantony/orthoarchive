@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-library/the-orthodox-study-bible-thomas-nelson/","tags":["resource/book"]}
+{"created":"2025-04-18 11:56:46","updated":"2025-04-18 11:56:46","tags":["resource/book"],"dg-publish":true,"permalink":"/01-library/the-orthodox-study-bible-thomas-nelson/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # The Orthodox Study Bible

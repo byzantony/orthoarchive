@@ -1,5 +1,5 @@
 ---
-{"created":"2025-04-17 23:22:37","updated":"2025-04-17 23:22:37","tags":["resource/book"],"dg-publish":true,"permalink":"/01-library/orthodox-faith-and-life-in-christ-st-justin-popovich/","dgPassFrontmatter":true,"noteIcon":""}
+{"created":"2025-04-17 23:22:37","updated":"2025-04-17 23:22:37","tags":["resource/book"],"dg-publish":true,"dg-hide":true,"permalink":"/01-library/orthodox-faith-and-life-in-christ-st-justin-popovich/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

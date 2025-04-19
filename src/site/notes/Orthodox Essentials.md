@@ -89,4 +89,4 @@ To best support the Church, please consider purchasing Orthodox books from monas
 - [[Resources/Orthodox Christian Movies\|Orthodox Christian Movies]]
 ---
 ### Archive
-- [The Orthodox Word Magazine #1 to #105](https://archive.org/details/100101V17N05061981SepOctNovDec/001%20V01N01%201965%20Jan%20Feb/page/16/mode/2up)
+- [The Orthodox Word Magazine #1 to #105](https://archive.org/details/100101V17N05061981SepOctNovDec/001%20V01N01%201965%20Jan%20Feb/mode/2up)

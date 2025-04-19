@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introductory/the-catechetical-homilies-and-testament-of-st-theodore-the-studite/","title":"The Catechetical Homilies and Testament of St. Theodore the Studite"}
+{"title":"The Catechetical Homilies and Testament of St. Theodore the Studite","description":"From Orthodox Life, vol. 38, no. 1 (Jan.-Feb., 1988), pp. 4-7.","author":["St. Theodore the Studite"],"source":"http://orthodoxinfo.com/praxis/homilies.aspx","date_published":null,"created":"2025-04-17","tags":null,"dg-publish":true,"dg-hide":true,"permalink":"/introductory/the-catechetical-homilies-and-testament-of-st-theodore-the-studite/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 From *Orthodox Life*, vol. 38, no. 1 (Jan.-Feb., 1988), pp. 4-7.

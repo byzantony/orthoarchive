@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-library/on-the-incarnation-st-athanasius/","tags":["resource/book"]}
+{"tags":["resource/book"],"dg-publish":true,"permalink":"/01-library/on-the-incarnation-st-athanasius/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introductory/on-the-respect-due-to-the-church-of-god-and-to-the-sacred-mysteries/","title":"On the Respect Due to the Church of God and to the Sacred Mysteries"}
+{"title":"On the Respect Due to the Church of God and to the Sacred Mysteries","description":null,"author":["St. John Chrysostom"],"source":"http://orthodoxinfo.com/praxis/respect.aspx","date_published":null,"created":"2025-04-18","tags":null,"dg-publish":true,"dg-hide":true,"permalink":"/introductory/on-the-respect-due-to-the-church-of-god-and-to-the-sacred-mysteries/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 Very few have come here today. Whatever is the reason? We celebrated the Feast of the Martyrs, and nobody comes? The length of the road makes them reluctant; or rather it is not the length of the road that prevents them from coming, but their own laziness. For just as nothing stops an earnest man, one whose soul is upright and awake, so anything at all will stand in the way of the half-hearted and the lazy.

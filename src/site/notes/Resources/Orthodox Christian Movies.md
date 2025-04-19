@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/orthodox-christian-movies/"}
+{"dg-publish":true,"permalink":"/resources/orthodox-christian-movies/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

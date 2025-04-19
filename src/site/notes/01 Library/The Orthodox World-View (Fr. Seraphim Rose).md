@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-library/the-orthodox-world-view-fr-seraphim-rose/","title":"The Orthodox World-View","tags":["clippings"]}
+{"title":"The Orthodox World-View","description":null,"author":["Fr. Seraphim Rose"],"source":"http://orthodoxinfo.com/praxis/rose_wv.aspx","date_published":null,"created":"2025-04-18","tags":["clippings"],"dg-publish":true,"dg-hide":true,"permalink":"/01-library/the-orthodox-world-view-fr-seraphim-rose/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # The Orthodox World-View

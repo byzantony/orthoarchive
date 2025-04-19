@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/orthodox-book-list/"}
+{"dg-publish":true,"permalink":"/resources/orthodox-book-list/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-library/on-marriage-and-family-life-st-john-chrysostom/","tags":["resource/book"]}
+{"created":"2025-04-18 00:01:41","updated":"2025-04-18 00:01:41","tags":["resource/book"],"dg-publish":true,"dg-hide":true,"permalink":"/01-library/on-marriage-and-family-life-st-john-chrysostom/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # On Marriage and Family Life

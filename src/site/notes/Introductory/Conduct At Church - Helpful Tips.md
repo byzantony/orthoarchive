@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introductory/conduct-at-church-helpful-tips/"}
+{"dg-publish":true,"dg-hide":true,"permalink":"/introductory/conduct-at-church-helpful-tips/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

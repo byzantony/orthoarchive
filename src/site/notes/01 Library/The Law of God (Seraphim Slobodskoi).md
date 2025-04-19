@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-library/the-law-of-god-seraphim-slobodskoi/","tags":["resource/book"]}
+{"created":"2025-04-18 00:48:19","updated":"2025-04-18 00:48:19","tags":["resource/book"],"dg-publish":true,"dg-hide":true,"permalink":"/01-library/the-law-of-god-seraphim-slobodskoi/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # The Law of God

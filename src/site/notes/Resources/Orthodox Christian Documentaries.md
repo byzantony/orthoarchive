@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/orthodox-christian-documentaries/"}
+{"dg-publish":true,"permalink":"/resources/orthodox-christian-documentaries/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

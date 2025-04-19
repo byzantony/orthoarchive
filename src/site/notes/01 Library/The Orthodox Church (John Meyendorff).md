@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-library/the-orthodox-church-john-meyendorff/","tags":["resource/book"]}
+{"created":"2025-04-18 12:58:05","updated":"2025-04-18 12:58:05","tags":["resource/book"],"dg-publish":true,"dg-hide":true,"permalink":"/01-library/the-orthodox-church-john-meyendorff/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # The Orthodox Church

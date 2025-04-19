@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/saints-and-elders/st-athanasius-of-alexandria/"}
+{"dg-publish":true,"dg-hide":true,"permalink":"/saints-and-elders/st-athanasius-of-alexandria/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

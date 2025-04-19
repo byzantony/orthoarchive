@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introductory/introducing-the-orthodox-church/"}
+{"dg-publish":true,"dg-hide":true,"permalink":"/introductory/introducing-the-orthodox-church/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

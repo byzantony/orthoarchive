@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-library/against-the-heathen-contra-gentiles-st-athanasius/","tags":["resource/book"]}
+{"created":"2025-04-18 00:12:08","updated":"2025-04-18 00:12:08","tags":["resource/book"],"dg-publish":true,"dg-hide":true,"permalink":"/01-library/against-the-heathen-contra-gentiles-st-athanasius/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Against the Heathen (Contra Gentiles)

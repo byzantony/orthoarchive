@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dogmatics/the-doctrine-of-the-holy-trinity-the-significance-of-the-cappadocian-contribution/","title":"The Doctrine of the Holy Trinity: The Significance of the Cappadocian Contribution"}
+{"title":"The Doctrine of the Holy Trinity: The Significance of the Cappadocian Contribution","description":"From \"Trinitarian Theology Today: Essays on Divine Being and Act\", pp. 44-60.","author":["John D. Zizioulas"],"source":"https://www.oocities.org/trvalentine/orthodox/zizioulas_cappadocians.html","created":"2025-04-18","tags":null,"dg-publish":true,"dg-hide":true,"permalink":"/dogmatics/the-doctrine-of-the-holy-trinity-the-significance-of-the-cappadocian-contribution/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 #### By John D. Zizioulas

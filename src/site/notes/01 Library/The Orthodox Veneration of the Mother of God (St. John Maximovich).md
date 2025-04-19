@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-library/the-orthodox-veneration-of-the-mother-of-god-st-john-maximovich/","tags":["resource/book"]}
+{"created":"2025-04-17 23:26:48","updated":"2025-04-17 23:26:48","tags":["resource/book"],"dg-publish":true,"dg-hide":true,"permalink":"/01-library/the-orthodox-veneration-of-the-mother-of-god-st-john-maximovich/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # The Orthodox Veneration of the Mother of God

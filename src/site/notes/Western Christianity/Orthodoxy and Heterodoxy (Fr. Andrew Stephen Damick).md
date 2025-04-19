@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/western-christianity/orthodoxy-and-heterodoxy-fr-andrew-stephen-damick/","tags":["resource/book"]}
+{"created":"2025-04-18 14:14:17","updated":"2025-04-18 14:14:17","tags":["book"],"dg-publish":true,"dg-hide":true,"permalink":"/western-christianity/orthodoxy-and-heterodoxy-fr-andrew-stephen-damick/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Orthodoxy and Heterodoxy

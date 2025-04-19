@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-library/on-the-divine-images-st-john-of-damascus/","tags":["resource/book"]}
+{"created":"2025-04-18 00:30:12","updated":"2025-04-18 00:30:12","tags":["resource/book"],"dg-publish":true,"dg-hide":true,"permalink":"/01-library/on-the-divine-images-st-john-of-damascus/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # On the Divine Images
