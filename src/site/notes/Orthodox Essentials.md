@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/orthodox-essentials/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/orthodox-essentials/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ### Get Connected
 - [World Orthodox Directory](https://orthodox-world.org/en/index)
 - [Orthodox Parish Locator (America)](https://www.assemblyofbishops.org/directories/parishes/)
+
+<iframe width="711" height="144" frameborder="0" src="https://mega.nz/embed/MAMCmJ4Y#ubYh3_enisXrfVgJ76kTDk7-i_Slc02Z_E9qgNJ2hpE!1v1c" allowfullscreen ></iframe>
+
 ---
 ### Orthodox Publishers
 To best support the Church, please consider purchasing Orthodox books from monasteries over Amazon.
