@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dogmatics/the-doctrine-of-the-holy-trinity-the-significance-of-the-cappadocian-contribution/","title":"The Doctrine of the Holy Trinity: The Significance of the Cappadocian Contribution","tags":["test"]}
+{"dg-publish":true,"permalink":"/dogmatics/the-doctrine-of-the-holy-trinity-the-significance-of-the-cappadocian-contribution/","title":"The Doctrine of the Holy Trinity: The Significance of the Cappadocian Contribution"}
 ---
 
 #### By John D. Zizioulas
