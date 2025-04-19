@@ -14,8 +14,10 @@ Is all Christian art fundamentally blasphemous? That was the question posed aggr
 _St. John of Damascus (c. 675-749) was a theologian and hymnographer. He was one of the great defenders of the holy icons against the iconoclasts. The following are excerpts from his first treatise “against those who attack the holy images:_
 
 > “Of old, God the incorporeal and formless was never depicted, but now that God has been seen in the flesh and has associated with human kind, I depict what I have seen of God. I do not venerate matter, I venerate the fashioner of matter, who became matter for my sake and accepted to dwell in matter and through matter worked my salvation… Do not abuse matter; for it is not dishonorable, this is the view of the Manichees. The only thing that is dishonorable is something that does not have its origin from God.” (Treatise 1.16)
- 
+
+
 > “I say that everywhere we use our senses to produce an image of the Incarnate God himself, and we sanctify the first of the senses (sight being the first of the senses), just as by words hearing is sanctified. For the image is a memorial. What the book does for those who understand letters, the image does for the illiterate; the word appeals to hearing, the image appeals to sight; it conveys understanding.” (Treatise 1.17)
+
 
 > “Is it not fitting to venerate the saints rather than stone them? …If you loved God, you would certainly honor his servants. …How was the dead man who touched the bones of Elisseus (i.e. Elisha, cf. 2 Kings 13.21) immediately raised up? If God works miracles through bones, it is very clear that he can also do so through images and stones and many other things, just as also it happened with Elisseus, who gave his own staff to his servant and told him to go and through it raise up the child of the Shunamitess (cf. 2 Kings 4.29).” (Treatise 1.56)
 
