@@ -2,7 +2,6 @@
 {"created":"2025-04-17 23:22:37","updated":"2025-04-17 23:22:37","tags":["resource/book"],"dg-publish":true,"permalink":"/01-library/orthodox-faith-and-life-in-christ-st-justin-popovich/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-# Orthodox Faith and Life in Christ
 
 > [!book] Bibliography
 > Justin Popovich. 1994. *"Orthodox Faith and Life in Christ"*. Inst for Byzantine & Modern Greek.
