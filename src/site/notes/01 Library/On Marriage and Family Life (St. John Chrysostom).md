@@ -1,9 +1,6 @@
 ---
-{"created":"2025-04-18 00:01:41","updated":"2025-04-18 00:01:41","tags":["resource/book"],"dg-publish":true,"dg-hide":true,"permalink":"/01-library/on-marriage-and-family-life-st-john-chrysostom/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
+{"created":"2025-04-18 00:01:41","updated":"2025-04-18 00:01:41","tags":["sacraments","patristics"],"dg-publish":true,"dg-hide":true,"permalink":"/01-library/on-marriage-and-family-life-st-john-chrysostom/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
-
-# On Marriage and Family Life
-
 
 St. John Chrysostom. 1986. *"On Marriage and Family Life"*. St Vladimir's Seminary Press.
 
