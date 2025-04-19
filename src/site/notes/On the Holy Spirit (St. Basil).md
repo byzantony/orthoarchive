@@ -17,7 +17,7 @@ Basil's argument rests on the overwhelming testimony of Scripture, and the funda
 >[The Spirit's] operations, what are they? For majesty ineffable, and for numbers innumerable. ... [The Spirit] existed; He pre-existed; He co-existed with the Father and the Son before the ages. ... Is it Christ's advent? The Spirit is forerunner. Is there the incarnate presence? The Spirit is inseparable. Working of miracles, and gifts of healing are through the Holy Spirit. Demons were driven out by the Spirit of God. The devil was brought to naught by the presence of the Spirit. Remission of sins was by the gift of the Spirit, for 'ye were washed, ye were sanctified ... in the name of the Lord Jesus Christ, and in the holy Spirit of our God.' There is close relationship with God through the Spirit, for 'God hath sent forth the Spirit of His Son into your hearts, crying Abba, Father.' The resurrection from the dead is effected by the operation of the Spirit, for 'Thou sendest forth thy spirit, they are created; and Thou renewest the face of the earth'.
 ---
 
->[!download]
+>[!pdf-download]
 - [⤓ PDF](https://mega.nz/file/EJVh2B6K#d4Q0m8FB_YfZhOcz1Egfsla9_7K-Q8BSHHiO8U0OpaQ)
 
 >[!book] Read Online
