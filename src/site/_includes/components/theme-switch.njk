@@ -1,0 +1,14 @@
+<button id="theme-toggle">Toggle Theme</button>
+<script>
+  const toggle = document.getElementById('theme-toggle');
+  toggle.addEventListener('click', () => {
+    const current = document.documentElement.getAttribute('data-theme');
+    document.documentElement.setAttribute('data-theme', current === 'dark' ? 'light' : 'dark');
+    localStorage.setItem('theme', document.documentElement.getAttribute('data-theme'));
+  });
+  // On load, set theme from localStorage
+  document.addEventListener('DOMContentLoaded', () => {
+    const saved = localStorage.getItem('theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+  });
+</script>
