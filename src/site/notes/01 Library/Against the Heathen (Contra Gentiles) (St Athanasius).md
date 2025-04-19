@@ -3,11 +3,11 @@
 ---
 
 
-St. Athanasius. 2014-04-11. *"Against the Heathen (Contra Gentiles)"*. .
+St. Athanasius. 2014-04-11. *"Against the Heathen (Contra Gentiles)"*.
 
 | Cover                                                                                                                       | Metadata                                                                  
 | --------------------------------------------------------------------------------------------------------------------------- |  --- |
-| ![cover\|150](https://m.media-amazon.com/images/I/51rRvq7dT3L.jpg) | **Title**: Against the Heathen (Contra Gentiles)<br>**Author**: [[St. Athanasius\|St. Athanasius]]<br>**Content Type**: book<br>**Publisher:** St Vladimir's Seminary Press<br>**Date Published:** 2014<br>**Pages:** 134<br>**ISBN 10**: 1499113145<br>**ISBN 13**: 9781499113143 
+| ![cover\|150](https://m.media-amazon.com/images/I/51rRvq7dT3L.jpg) | **Title**: Against the Heathen (Contra Gentiles)<br>**Author**: [[St. Athanasius\|St. Athanasius]]<br>**Content Type**: book<br>**Publisher:** CreateSpace Independent Publishing Platform<br>**Date Published:** 2014<br>**Pages:** 134<br>**ISBN 10**: 1499113145<br>**ISBN 13**: 9781499113143 
 
 
 
@@ -23,7 +23,7 @@ St. Athanasius. 2014-04-11. *"Against the Heathen (Contra Gentiles)"*. .
 - [CHURCH FATHERS: Against the Heathen (Athanasius)](https://archive.is/EstrR)
 
 #### Purchase
-- [St. Vladamir's Seminary Press](https://svspress.com/against-the-heathen-by-saint-athanasius/)
+- [St. Vladimir's Seminary Press](https://svspress.com/against-the-heathen-by-saint-athanasius/)
 
 #### Audio
 
