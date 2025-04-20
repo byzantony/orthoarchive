@@ -7,9 +7,12 @@
 > Justin Popovich. 1994. *"Orthodox Faith and Life in Christ"*. Inst for Byzantine & Modern Greek.
 
 
+
+
+|  Cover   |  Info   |
+| --- | --- |
 | ![cover\|150](http://books.google.com/books/content?id=No_APQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api) | **Title**:: Orthodox Faith and Life in Christ<br>**Authors**:: Justin Popovich<br>**itemType**:: book<br>**Publisher**:: Inst for Byzantine & Modern Greek.<br>**Date_published**:: 1994<br>**Pages**:: 247<br>**ISBN**:: 1884729029 9781884729027 |
-|:--------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                                                                                                      |                                                                                                                                                                                                                                                    |
+
 
 
 

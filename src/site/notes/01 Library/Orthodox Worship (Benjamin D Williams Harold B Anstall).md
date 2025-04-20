@@ -1,5 +1,5 @@
 ---
-{"created":"2025-04-18 14:07:20","updated":"2025-04-18 14:07:20","tags":["resource/book"],"dg-publish":true,"permalink":"/01-library/orthodox-worship-benjamin-d-williams-harold-b-anstall/","dgPassFrontmatter":true,"noteIcon":""}
+{"created":"2025-04-18 14:07:20","updated":"2025-04-18 14:07:20","tags":["resource/book"],"dg-publish":true,"dg-hide":true,"permalink":"/01-library/orthodox-worship-benjamin-d-williams-harold-b-anstall/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Orthodox Worship

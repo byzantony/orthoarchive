@@ -1,5 +1,5 @@
 ---
-{"created":"2025-04-18 11:56:46","updated":"2025-04-18 11:56:46","tags":["scripture"],"dg-publish":true,"permalink":"/01-library/the-orthodox-study-bible-thomas-nelson/","dgPassFrontmatter":true,"noteIcon":""}
+{"created":"2025-04-18 11:56:46","updated":"2025-04-18 11:56:46","tags":["scripture"],"dg-publish":true,"dg-hide":true,"permalink":"/01-library/the-orthodox-study-bible-thomas-nelson/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 Thomas Nelson. 2008. *"The Orthodox Study Bible"*. Thomas Nelson.

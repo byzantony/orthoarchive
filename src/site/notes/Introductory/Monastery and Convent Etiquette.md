@@ -1,5 +1,5 @@
 ---
-{"title":"Monastery and Convent Etiquette","description":"Father David Cownie and Presbytera Juliana Cownie, *A Guide to Orthodox Life* (Etna, CA: Center for Traditionalist Orthodox Studies, 1996), pp. 96-100.","author":["Father David Cownie and Presbytera Juliana Cownie"],"source":"http://orthodoxinfo.com/praxis/monastery_etiquette.aspx","date_published":null,"created":null,"tags":null,"dg-publish":true,"permalink":"/introductory/monastery-and-convent-etiquette/","dgPassFrontmatter":true,"noteIcon":""}
+{"title":"Monastery and Convent Etiquette","description":"Father David Cownie and Presbytera Juliana Cownie, *A Guide to Orthodox Life* (Etna, CA: Center for Traditionalist Orthodox Studies, 1996), pp. 96-100.","author":["Father David Cownie and Presbytera Juliana Cownie"],"source":"http://orthodoxinfo.com/praxis/monastery_etiquette.aspx","date_published":null,"created":null,"tags":null,"dg-publish":true,"dg-hide":true,"permalink":"/introductory/monastery-and-convent-etiquette/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
