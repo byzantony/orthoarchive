@@ -1,5 +1,5 @@
 ---
-{"title":"Plucking the TULIP","description":"An Orthodox Critique of the Reformed Doctrine of Predestination","author":["Robert Arakaki"],"source":"https://orthodoxbridge.com/2012/08/12/plucking-the-tulip-1-an-orthodox-critique-of-the-reformed-doctrine-of-predestination/","date_published":"2012-08-12T04:17:11-10:00","tags":["protestantism","calvinism"],"dg-publish":true,"permalink":"/western-christianity/plucking-the-tulip-an-orthodox-critique-of-the-reformed-doctrine-of-predestination-orthodox-reformed-bridge/","dgPassFrontmatter":true,"noteIcon":""}
+{"title":"Plucking the TULIP","description":"An Orthodox Critique of the Reformed Doctrine of Predestination","author":["Robert Arakaki"],"source":"https://orthodoxbridge.com/2012/08/12/plucking-the-tulip-1-an-orthodox-critique-of-the-reformed-doctrine-of-predestination/","date_published":"2012-08-12T04:17:11-10:00","tags":["protestantism","calvinism"],"dg-publish":true,"dg-hide":true,"permalink":"/western-christianity/plucking-the-tulip-an-orthodox-critique-of-the-reformed-doctrine-of-predestination-orthodox-reformed-bridge/","hide":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 [PDF Download](https://mega.nz/file/pUFhiBAA#2lx-WMTroTKMfl79VFl8cgnCQSl98JyT0KXX_bMy4rg)
