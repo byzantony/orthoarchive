@@ -1,16 +1,13 @@
 ---
-{"title":"Holy Scripture in the Orthodox Church","description":null,"author":null,"source":"https://www.oocities.org/trvalentine/orthodox/bible_texts.html","date_published":null,"created":"2025-04-18","tags":["scripture","theology"],"dg-publish":true,"permalink":"/which-translation-of-the-bible-should-i-use/","dgPassFrontmatter":true,"noteIcon":""}
+{"title":"Holy Scripture in the Orthodox Church","description":null,"author":null,"source":"https://www.oocities.org/trvalentine/orthodox/bible_texts.html","date_published":null,"created":"2025-04-18","tags":["scripture","theology"],"dg-publish":true,"archive":"https://ark.page/archive?url=https%3A%2F%2Fwww.oocities.org%2Ftrvalentine%2Forthodox%2Fbible_texts.html","permalink":"/which-translation-of-the-bible-should-i-use/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-# Holy Scripture In the Orthodox Church
 
 Based on "Which English Translation of the Bible Should I Use?" by Metropolitan Isaiah of Denver.
 
-Source:: Greek Orthodox Diocese of Denver Bulletin: March 1995, Volume 3, Number 3., pp. 14-17. 
+Source: Greek Orthodox Diocese of Denver Bulletin: March 1995, Volume 3, Number 3., pp. 14-17. 
 
-Archived:: 2025-04-21 https://ark.page/archive?url=https%3A%2F%2Fwww.oocities.org%2Ftrvalentine%2Forthodox%2Fbible_texts.html
-
-
+[Archived on Bitcoin](https://ark.page/archive?url=https%3A%2F%2Fwww.oocities.org%2Ftrvalentine%2Forthodox%2Fbible_texts.html)
 
 ---
 Strictly speaking, there never was a "Bible" in the Orthodox Church, at least not as we commonly think of the Bible as a single volume book we can hold in our hand. Since the beginning of the Church, from the start of our liturgical tradition, there has never been a single book in an Orthodox church we could point to as "the Bible". Instead, the various "Books" of the Bible are found scattered throughout several service books located either on the Holy Altar itself, or at the chanter's stand. The Gospels (or their pericopes) are complied into a single volume — usually bound in precious metal and richly decorated — placed on the Holy Altar.
