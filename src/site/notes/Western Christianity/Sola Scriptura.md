@@ -8,6 +8,9 @@ Download PDF:
 [Mirror 1](http://www.stvladimiraami.org/pamphlets/solascriptura.pdf)
 [Mirror 2](https://mega.nz/file/RdF0zDDI#**NPMMTQf5L4a5pqzPaDJBjtjOv9Wk1DprBLMRZbPOdUE)
 
+Read Online:
+- https://archive.is/p7ljg
+
 ---
 ## In the Vanity of Their Minds
 

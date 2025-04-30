@@ -20,7 +20,7 @@ Similar websites: [Orthodox Wiki](https://orthodoxwiki.org/) | [Orthodox Informa
 - [[Introductory/Orthodox Catechetical Vocabulary\|Orthodox Catechetical Vocabulary]]
 - [[01 Library/Orthodox Faith and Life in Christ (St. Justin Popovich)\|Orthodox Faith and Life in Christ (St. Justin Popovich)]]
 - [[01 Library/The Orthodox Veneration of the Mother of God (St. John Maximovich)\|The Orthodox Veneration of the Mother of God (St. John Maximovich)]]
-- [[01 Library/On the Apostolic Preaching (Saint Irenaeus)\|On the Apostolic Preaching (Saint Irenaeus)]]
+- [[01 Library/Patristics/On the Apostolic Preaching (Saint Irenaeus)\|On the Apostolic Preaching (Saint Irenaeus)]]
 - [[Western Christianity/The Difference Between Orthodox Spirituality and Other Traditions\|The Difference Between Orthodox Spirituality and Other Traditions]]
 
 #### Essential Videos
@@ -34,8 +34,8 @@ Similar websites: [Orthodox Wiki](https://orthodoxwiki.org/) | [Orthodox Informa
 - [[The Sayings of the Desert Fathers\|The Sayings of the Desert Fathers]]
 ---
 ### Dogmatics
-- [[01 Library/On the Incarnation (St. Athanasius)\|On the Incarnation (St. Athanasius)]]
-- [[01 Library/Against the Heathen (Contra Gentiles) (St Athanasius)\|Against the Heathen (Contra Gentiles) (St Athanasius)]]
+- [[01 Library/Patristics/On the Incarnation (St. Athanasius)\|On the Incarnation (St. Athanasius)]]
+- [[01 Library/Patristics/Against the Heathen (Contra Gentiles) (St Athanasius)\|Against the Heathen (Contra Gentiles) (St Athanasius)]]
 - [[On the Holy Spirit (St. Basil)\|On the Holy Spirit (St. Basil)]]
 ---
 ### Bible Resources
@@ -44,15 +44,15 @@ Similar websites: [Orthodox Wiki](https://orthodoxwiki.org/) | [Orthodox Informa
 - [New Testament (EOB Portable)](https://stmpress.com/products/the-new-testament)
 ---
 ### Life and Practice
-- [[01 Library/The Didache (The Teaching of the Twelve Apostles)\|The Didache (The Teaching of the Twelve Apostles)]]
-- [[01 Library/The Law of God (Seraphim Slobodskoi)\|The Law of God (Seraphim Slobodskoi)]]
+- [[01 Library/Introduction/The Didache (The Teaching of the Twelve Apostles)\|The Didache (The Teaching of the Twelve Apostles)]]
+- [[01 Library/Introduction/The Law of God (Seraphim Slobodskoi)\|The Law of God (Seraphim Slobodskoi)]]
 - [The Law of God: An Introduction to Orthodox Christianity [PDF]](https://mega.nz/file/VItngBLZ#MEVUhCy0KtmmOjrrL2Y09JWrY5AbRoaCcBM9iyJHH4A) (Fr. Daniel Sysoev)
 - On Fasting: [[Introductory/The Catechetical Homilies and Testament of St. Theodore the Studite\|The Catechetical Homilies and Testament of St. Theodore the Studite]]
-- [[01 Library/On Marriage and Family Life (St. John Chrysostom)\|On Marriage and Family Life (St. John Chrysostom)]]
+- [[01 Library/Patristics/On Marriage and Family Life (St. John Chrysostom)\|On Marriage and Family Life (St. John Chrysostom)]]
 ---
 ### Etiquette and Conduct
 - [[Introductory/Conduct At Church - Helpful Tips\|Conduct At Church - Helpful Tips]]
-- [[Introductory/Monastery and Convent Etiquette\|Monastery and Convent Etiquette]]
+- [[Introductory/Proper Etiquette & Worship Practices\|Proper Etiquette & Worship Practices]]
 - [[Introductory/On the Respect Due to the Church of God and to the Sacred Mysteries\|On the Respect Due to the Church of God and to the Sacred Mysteries]] (St. John Chrysostom)
 ---
 ### Prayer, Devotion & Liturgics

@@ -4,7 +4,8 @@
 
 
 
-[Download PDF](https://mega.nz/file/9c0gXCIL#NHRG4ayqOmTsK0mLY_9DiWKHmntkHDn0-4QKY-49f50)
+**Download:**
+[Mirror 1](https://mega.nz/file/9c0gXCIL#NHRG4ayqOmTsK0mLY_9DiWKHmntkHDn0-4QKY-49f50)
 
 ---
 ## Preparing for Church

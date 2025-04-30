@@ -13,5 +13,5 @@ His feast day in the Orthodox Church is January 18.
 Source: [Athanasius of Alexandria - OrthodoxWiki](https://orthodoxwiki.org/Athanasius_of_Alexandria)
 
 ---
-- [[01 Library/On the Incarnation (St. Athanasius)\|On the Incarnation (St. Athanasius)]]
-- [[01 Library/Against the Heathen (Contra Gentiles) (St Athanasius)\|Against the Heathen (Contra Gentiles) (St Athanasius)]]
+- [[01 Library/Patristics/On the Incarnation (St. Athanasius)\|On the Incarnation (St. Athanasius)]]
+- [[01 Library/Patristics/Against the Heathen (Contra Gentiles) (St Athanasius)\|Against the Heathen (Contra Gentiles) (St Athanasius)]]

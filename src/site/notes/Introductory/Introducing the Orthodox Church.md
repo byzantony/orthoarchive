@@ -3,7 +3,11 @@
 ---
 
 
-[Download PDF](https://mega.nz/file/dQVTnYAC#bxt9k8y3VOfhihZ9UdpCvTPGhJuZ2BD-ijMR7Nf9304)
+**Download:**
+[Mirror 1](https://mega.nz/file/dQVTnYAC#bxt9k8y3VOfhihZ9UdpCvTPGhJuZ2BD-ijMR7Nf9304)
+
+---
+
 ### Introduction
 The following pages are offered as an excellent yet concise explanation of the Orthodox Faith. It is our hope that this will bear fruit among those who have been raised in the faith, the recent convert and also, those faithfully searching for the Church of the Apostles.
 
@@ -44,7 +48,7 @@ For the first thousand years of Christian history, the entire Church, save for t
 
 **2. *Worship*:** Doctrinal purity was tenaciously maintained, but true Christianity is far more than adherence to a set of correct beliefs alone. The life of the Church is centrally expressed in her worship and adoration of God the Father, Son, and Holy Spirit. Jesus Himself told the woman at the well, “the hour is coming, and now is, when the true worshipers will worship the Father in spirit and truth; for the Father is seeking such to worship Him” (John 4:23). 
 
-At the Last Supper, Jesus instituted the Eucharist, the communion service, when He took bread and wine, gave a blessing, and said to His disciples, “This is My body which is given for you; do this in remembrance of Me” and “This cup is the new covenant in My blood, which is shed for you” (Luke 22:19, 21). The Church participated in communion at least each Lord’s Day (Acts 20:7, 11). From such first and second century sources as the [[01 Library/The Didache (The Teaching of the Twelve Apostles)\|Didache]], the letters of St. Ignatius of Antioch and the writings of St. Justin Martyr, we are assured the Eucharist is the very center of Christian worship from the apostolic era on. 
+At the Last Supper, Jesus instituted the Eucharist, the communion service, when He took bread and wine, gave a blessing, and said to His disciples, “This is My body which is given for you; do this in remembrance of Me” and “This cup is the new covenant in My blood, which is shed for you” (Luke 22:19, 21). The Church participated in communion at least each Lord’s Day (Acts 20:7, 11). From such first and second century sources as the [[01 Library/Introduction/The Didache (The Teaching of the Twelve Apostles)\|Didache]], the letters of St. Ignatius of Antioch and the writings of St. Justin Martyr, we are assured the Eucharist is the very center of Christian worship from the apostolic era on. 
 
 Also, just as the Law, the Psalms, and the Prophets were read in the Temple worship and the synagogue in Israel, so the Church also immediately gave high priority to the public reading of Scripture and to preaching in her worship, along with the Eucharistic meal. 
 
